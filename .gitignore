@@ -1,0 +1,4 @@
+venv/*
+.idea/*
+Mapping_Res_to_MitreAttack.xlsx
+*.xml
