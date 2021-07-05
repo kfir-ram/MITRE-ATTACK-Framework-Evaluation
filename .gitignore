@@ -1,4 +1,8 @@
 venv/*
 .idea/*
+__pycache__/*
+Methods/__pycache__/*
+Util/__pycache__/*
 Mapping_Res_to_MitreAttack.xlsx
 *.xml
+WindowsMalware.xlsx
