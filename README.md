@@ -3,7 +3,9 @@ A system to evaluate the implementation of MITRE ATT&amp;CK framework using a gi
 
 ## Created by:
 **Kfir Ram** - https://github.com/kfir-ram
+######
 **Shir Bar** - https://github.com/shirbar
+######
 **Hen Dahan** - https://github.com/HenDahan
 
 ## How to Run:
