@@ -2,11 +2,9 @@
 A system to evaluate the implementation of MITRE ATT&amp;CK framework using a given set of logs.
 
 ## Created by:
-**Kfir Ram**
-####
-**Shir Bar**
-####
-**Hen Dahan**
+**Kfir Ram** - https://github.com/kfir-ram
+**Shir Bar** - https://github.com/shirbar
+**Hen Dahan** - https://github.com/HenDahan
 
 ## How to Run:
 1. Download & Install PyCharm : https://www.jetbrains.com/pycharm/download
